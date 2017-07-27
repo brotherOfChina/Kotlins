@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="settings">Settings</string>
+    <string name="city_zipcode">94034</string>
+</resources>
